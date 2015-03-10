@@ -70,7 +70,7 @@ DATABASES = {
 LANGUAGE_CODE = 'en-us'
 
 #Endret til Norsk tidssone
-TIME_ZONE = 'UTC+01:00'
+TIME_ZONE = 'Europe/Oslo'
 
 USE_I18N = True
 
